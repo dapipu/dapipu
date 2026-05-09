@@ -1,5 +1,5 @@
-<h1 align="center">Hi visitors👋 </br>I'm Yusuf Qordhafi</h1>
-<h1 align="center">💻 In Engineering We Trust 🚀</h1>
+<h1 align="center">Hi visitors👋, I'm Yusuf </h1>
+<h1 align="center"><i>#InEngineeringWeTrust🚀</i></h1>
 <p align="center">
   <img width="900" src="https://i.pinimg.com/originals/61/78/88/617888a002d7b02b8b0444ec6b82f651.gif" />
 </p>

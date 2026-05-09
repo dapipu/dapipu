@@ -25,29 +25,26 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <marquee direction="left" scrollamount="8">
 
-<marquee behavior="scroll" direction="left" scrollamount="10">
+<img src="https://skillicons.dev/icons?i=html" width="55" />
+<img src="https://skillicons.dev/icons?i=css" width="55" />
+<img src="https://skillicons.dev/icons?i=js" width="55" />
+<img src="https://skillicons.dev/icons?i=ts" width="55" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" />
+<img src="https://skillicons.dev/icons?i=nestjs" width="55" />
+<img src="https://skillicons.dev/icons?i=react" width="55" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="55" />
+<img src="https://skillicons.dev/icons?i=postgresql" width="55" />
+<img src="https://skillicons.dev/icons?i=mysql" width="55" />
+<img src="https://skillicons.dev/icons?i=git" width="55" />
+<img src="https://skillicons.dev/icons?i=github" width="55" />
+<img src="https://skillicons.dev/icons?i=vscode" width="55" />
+<img src="https://skillicons.dev/icons?i=postman" width="55" />
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=ts" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=nestjs" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=postgresql" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=postman" />
-
-</marquee>
-
-</div>
-
+  </marquee>
+</p>
 ---
 
 ## 📊 GitHub Stats

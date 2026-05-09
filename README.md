@@ -1,6 +1,8 @@
 <h1 align="center">Hi visitors👋 </br>I'm Yusuf Qordhafi</h1>
-<h3 align="center">💻 In Engineering We Trust 🚀</h3>
-
+<h1 align="center">💻 In Engineering We Trust 🚀</h1>
+<p align="center">
+  <img width="900" src="https://i.pinimg.com/originals/61/78/88/617888a002d7b02b8b0444ec6b82f651.gif" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer+Enthusiast+🚀;NestJS+%7C+PostgreSQL+Developer;Building+Awesome+Web+Projects+🔥;Always+Learning+New+Things+💡" />
 </p>

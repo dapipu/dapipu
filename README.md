@@ -36,6 +36,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=nestjs" />
 <img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=php" /> </br>
 <img src="https://skillicons.dev/icons?i=nextjs" />
 <img src="https://skillicons.dev/icons?i=postgresql" />
 <img src="https://skillicons.dev/icons?i=mysql" />

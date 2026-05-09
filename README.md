@@ -46,23 +46,15 @@
 <img src="https://skillicons.dev/icons?i=figma" />
 
 </marquee>
-</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=HTML+⚡+CSS+⚡+JavaScript+⚡+NestJS+⚡+React+⚡+PostgreSQL+⚡+NextJS" />
+ </p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=HTML+⚡+CSS+⚡+JavaScript+⚡+NestJS+⚡+React+⚡+PostgreSQL+⚡+NextJS" />
-</p>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dapipu&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapipu&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 
 ## 🌐 Connect With Me
@@ -70,6 +62,9 @@
 <p align="center">
 <a href="https://github.com/dapipu" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+<a href="https://www.instagram.com/ionzyyyy/" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 </p>
 

@@ -60,48 +60,58 @@
 
 
 
-## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://github.com/dapipu" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-<a href="https://www.instagram.com/ionzyyyy/" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
-</a>
-</p>
-
----
 
 <h2 align="center">
-  Currently Listening To
+  🎧 Currently Listening To
   <a href="LINK-SPOTIFY-KAMU" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="25px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="23px">
   </a>
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://i.pinimg.com/originals/a8/17/f2/a817f27f252c3e43c78181468b85b1e5.gif" width="220" height="120"style="border-radius:15px;"><br><br>
-        <b>About You</b><br>
-        <sub>The 1975</sub>
-      </td>
-      <td align="center">
-        <img src="https://i.pinimg.com/originals/a8/17/f2/a817f27f252c3e43c78181468b85b1e5.gif" width="220"height="120" style="border-radius:15px;"><br><br>
-        <b> Tarot</b><br>
-        <sub>.Feast</sub>
-      </td>
-      <td align="center">
-        <img src="https://i.pinimg.com/originals/a8/17/f2/a817f27f252c3e43c78181468b85b1e5.gif" width="205" height="120" style="border-radius:15px; margin-top:15%;"><br><br>
-        <b>Terbuang Dalam Waktu</b><br>
-        <sub>Perunggu</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
 
+<td align="center" width="33%">
+  <img 
+    src="https://i.pinimg.com/originals/a8/17/f2/a817f27f252c3e43c78181468b85b1e5.gif" 
+    width="220" 
+    height="140"
+    style="object-fit: cover; border-radius: 16px;"
+  >
+  <br><br>
+  <b>🎵 About You</b><br>
+  <sub>The 1975</sub>
+</td>
+
+<td align="center" width="33%">
+  <img 
+    src="https://i.pinimg.com/originals/a8/17/f2/a817f27f252c3e43c78181468b85b1e5.gif" 
+    width="220" 
+    height="140"
+    style="object-fit: cover; border-radius: 16px;"
+  >
+  <br><br>
+  <b>🔮 Tarot</b><br>
+  <sub>.Feast</sub>
+</td>
+
+<td align="center" width="33%">
+  <img 
+    src="https://i.pinimg.com/originals/a8/17/f2/a817f27f252c3e43c78181468b85b1e5.gif" 
+    width="220" 
+    height="140"
+    style="object-fit: cover; border-radius: 16px;"
+  >
+  <br><br>
+  <b>🌙 Terbuang Dalam Waktu</b><br>
+  <sub>Perunggu</sub>
+</td>
+
+</tr>
+</table>
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dapipu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>

@@ -10,10 +10,22 @@
 ---
 
 ## About Me
+## About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I am a fresh graduate from Software Engineering (RPL) with an interest in web development, particularly backend development.  I enjoy building web applications, working with APIs and databases, and learning new technologies. My current goal is to continue improving my development skills and create software programs to address various existing problems
+I am a fresh graduate in Software Engineering (RPL) with a strong interest in web development, especially backend development. I enjoy building web applications, developing APIs, and working with databases to create efficient and useful solutions. Through personal projects and continuous learning, I keep improving my skills while exploring new technologies. My goal is to build software that can solve real-world problems and provide meaningful impact.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
